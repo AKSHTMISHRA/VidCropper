@@ -54,7 +54,7 @@ VidCropper is a simple video cropping application that allows users to crop the 
 VidCropper/
 │
 ├── .streamlit
-|    ├── config.py           # Streamlit configuration file
+|    ├── config.toml           # Streamlit configuration file
 ├── app.py                   # Main Streamlit application file
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
